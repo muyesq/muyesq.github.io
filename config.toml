@@ -219,7 +219,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 # url format
 [permalinks]
-  post = "/:year/:title/"
+  post = "/post/:year/:title/"
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
