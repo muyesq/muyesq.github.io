@@ -225,4 +225,18 @@
     <priority>0.5</priority>
   </url>
   
+  <url>
+    <loc>http://muyesq.github.io/tags/2011/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://muyesq.github.io/post/2011/%E8%B4%9F%E4%BD%9C%E7%94%A8/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
