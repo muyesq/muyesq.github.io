@@ -59,6 +59,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "about"
   url = "/about/"
 
+# url format
+[permalinks]
+  post = "/:year/:title/"
+  drafts = "/:year/:title/"
+
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
@@ -221,10 +226,6 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     startLevel = 1
   [markup.goldmark.renderer]
     unsafe = true
-
-# url format
-[permalinks]
-  post = "/post/:year/:title/"
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
