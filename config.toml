@@ -34,10 +34,15 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "列表" #"Archives"
+  name = "诗歌" #"Archives"
   weight = 20
   identifier = "archives"
   url = "/post/"
+[[menu.main]]
+  name = "诗词"
+  weight = 21
+  identifier = "classical"
+  url = "/classical/"
 [[menu.main]]
   name = "标签" #"Tags"
   weight = 30
@@ -63,6 +68,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 [permalinks]
   post = "/posts/:year/:title/"
   drafts = "/posts/:year/:title/"
+  classical = "/posts/:year/:title/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
