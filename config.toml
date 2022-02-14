@@ -80,7 +80,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = ""
 
   # site info (optional)                   # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "穆野霜泉的诗muyesq.cn"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "穆野霜泉的黑洞muyesq.cn"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["博客", "穆野霜泉", "诗歌", "诗"]
   description = "静穆，自由，悲悯，关怀"
 
