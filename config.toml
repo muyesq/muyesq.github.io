@@ -175,8 +175,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   # more info please open https://valine.js.org
   [params.valine]
     enable = false
-    appId = '你的appId'
-    appKey = '你的appKey'
+    appId = 'L7i0IlMRx7FJOGOvBMuyH4te-gzGzoHsz'
+    appKey = '9zXzcD7NAQ1lsu6J5F8WuKrn'
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
     avatar = 'mm'
