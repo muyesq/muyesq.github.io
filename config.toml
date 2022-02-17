@@ -179,9 +179,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     appKey = '9zXzcD7NAQ1lsu6J5F8WuKrn'
     notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
     verify = false # Verification code
-    avatar = 'mm'
+    avatar = 'wavatar'
     placeholder = '发表评论'
-    visitor = false
+    visitor = true
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
