@@ -31,10 +31,7 @@
   <span class="copyright-year">
     {{- $current := now.Format "2006" }}
     Copyright &copy;
-    {{ if ne .Site.Params.since $current -}}
-      {{ .Site.Params.since }} -
-    {{ end }}
-    {{- $current -}}
+    {{ if ne .Site.Params.since $current -}}{{ .Site.Params.since }}-{{ end }}{{- $current -}}
     <!--
     <span class="heart"><i class="iconfont icon-heart"></i></span>
     -->
