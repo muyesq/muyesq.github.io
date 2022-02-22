@@ -30,12 +30,15 @@
 
   <span class="copyright-year">
     {{- $current := now.Format "2006" }}
-    &copy; 
+    Copyright &copy;
     {{ if ne .Site.Params.since $current -}}
-      {{ .Site.Params.since }} - 
+      {{ .Site.Params.since }} -
     {{ end }}
     {{- $current -}}
-    <span class="heart"><i class="iconfont icon-heart"></i></span><!--
-    --><span>{{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}</span>
+    <!--
+    <span class="heart"><i class="iconfont icon-heart"></i></span>
+    -->
+    <span>{{if .Site.Copyright }}{{ .Site.Copyright | safeHTML }}{{ else }}{{ .Site.Author.name | safeHTML }}{{ end }}.</span>
+    <span>All rights reserved. </span>
   </span>
 </div>
