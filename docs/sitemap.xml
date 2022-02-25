@@ -255,7 +255,14 @@
   
   <url>
     <loc>http://muyesq.github.io/tags/2016/</loc>
-    <lastmod>2016-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2016-10-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://muyesq.github.io/posts/2016/on-25th-birthday/</loc>
+    <lastmod>2016-10-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
