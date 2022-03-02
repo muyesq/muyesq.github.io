@@ -63,6 +63,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   weight = 60
   identifier = "about"
   url = "/about/"
+[[menu.main]]
+  name = "留言"
+  weight = 90
+  identifier = "messages"
+  url = "/messages/"
 
 # url format
 [permalinks]
