@@ -527,6 +527,20 @@
   </url>
   
   <url>
+    <loc>http://muyesq.github.io/tags/2012/</loc>
+    <lastmod>2013-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://muyesq.github.io/posts/2013/%E8%B1%A1%E7%89%99%E5%A1%94/</loc>
+    <lastmod>2013-08-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://muyesq.github.io/tags/2013/</loc>
     <lastmod>2013-08-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -592,13 +606,6 @@
   <url>
     <loc>http://muyesq.github.io/posts/2013/%E8%A5%BF%E6%B1%9F%E6%9C%88/</loc>
     <lastmod>2013-05-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://muyesq.github.io/tags/2012/</loc>
-    <lastmod>2012-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
