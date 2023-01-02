@@ -1,7 +1,7 @@
 baseURL = "http://muyesq.github.io/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "穆野霜泉的黑洞muyesq.cn"
+title = "穆野霜泉的黑洞"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
