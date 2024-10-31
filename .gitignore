@@ -3,3 +3,5 @@ data
 resources
 .gitconfig
 .hugo_build.lock
+build
+a.out
