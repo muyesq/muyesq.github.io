@@ -360,7 +360,21 @@
   
   <url>
     <loc>http://muyesq.github.io/tags/2016/</loc>
-    <lastmod>2016-11-05T00:00:00+00:00</lastmod>
+    <lastmod>2016-11-19T22:39:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://muyesq.github.io/categories/%E8%AF%8D/</loc>
+    <lastmod>2016-11-19T22:39:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://muyesq.github.io/posts/2016/%E9%86%89%E8%8A%B1%E9%98%B4/</loc>
+    <lastmod>2016-11-19T22:39:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -403,13 +417,6 @@
   <url>
     <loc>http://muyesq.github.io/posts/2014/%E5%93%91%E5%B7%B4/</loc>
     <lastmod>2014-12-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://muyesq.github.io/categories/%E8%AF%8D/</loc>
-    <lastmod>2014-12-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
